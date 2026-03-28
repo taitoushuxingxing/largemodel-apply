@@ -1,5 +1,5 @@
 modelscope==1.35.3
-pandas==3.0.1
+pandas==2.2.3
 scikit_learn==1.8.0
 torch==2.8.0
 tqdm==4.67.3
