@@ -4,3 +4,5 @@ scikit_learn==1.8.0
 torch==2.8.0
 tqdm==4.67.3
 transformers==5.4.0
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
