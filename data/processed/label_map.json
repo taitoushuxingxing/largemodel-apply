@@ -1,0 +1,17 @@
+{
+  "label2id": {
+    "entertainment": 0,
+    "finance": 1,
+    "military": 2,
+    "sports": 3,
+    "technology": 4
+  },
+  "id2label": {
+    "0": "entertainment",
+    "1": "finance",
+    "2": "military",
+    "3": "sports",
+    "4": "technology"
+  },
+  "num_labels": 5
+}
